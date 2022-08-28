@@ -1,0 +1,6 @@
+framework module Pods_CeibaChallengeAppTests {
+  umbrella header "Pods-CeibaChallengeAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
